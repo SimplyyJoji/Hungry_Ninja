@@ -1,0 +1,12 @@
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.csprojAssemblyReference.cache
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.AssemblyInfoInputs.cache
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.AssemblyInfo.cs
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.csproj.CoreCompileInputs.cache
+/Users/javanogden/Hungry/bin/Debug/netcoreapp3.1/Hungry.deps.json
+/Users/javanogden/Hungry/bin/Debug/netcoreapp3.1/Hungry.runtimeconfig.json
+/Users/javanogden/Hungry/bin/Debug/netcoreapp3.1/Hungry.runtimeconfig.dev.json
+/Users/javanogden/Hungry/bin/Debug/netcoreapp3.1/Hungry.dll
+/Users/javanogden/Hungry/bin/Debug/netcoreapp3.1/Hungry.pdb
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.dll
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.pdb
+/Users/javanogden/Hungry/obj/Debug/netcoreapp3.1/Hungry.genruntimeconfig.cache
